@@ -1,15 +1,9 @@
-# Contributing Guidelines
+# Contributing Guide
 
-Thank you for considering contributing!
+Thanks for your interest in contributing!
 
-## How to Contribute
+- Fork the repo
+- Make changes in a new branch
+- Create a Pull Request
 
-1. Fork the repository
-2. Create a new branch (e.g., `feature-xyz`)
-3. Make your changes
-4. Submit a Pull Request
-
-## Code Style
-
-- Use meaningful commit messages
-- Follow shell scripting best practices
+We welcome all improvements!
