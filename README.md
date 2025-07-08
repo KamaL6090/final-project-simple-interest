@@ -1,8 +1,15 @@
-# Simple Interest Calculator (Shell Script)
+# Simple Interest Calculator
 
-This is a simple Bash script that calculates simple interest based on principal, rate, and time.
+This project is a simple Bash script to calculate Simple Interest.
 
-## How to Run
+## Usage
+Run the script and enter Principal, Rate, and Time.
 
-```bash
-bash simple-interest.sh
+## Example
+Enter Principal: 1000
+Enter Rate: 5
+Enter Time: 2
+Simple Interest is: 100.0
+
+## License
+Apache 2.0
